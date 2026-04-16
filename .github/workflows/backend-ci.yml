@@ -38,3 +38,6 @@ jobs:
           import fastapi
           print("FastAPI OK")
           EOF
+      - name: Run tests
+        working-directory: backend
+        run: pytest -q
