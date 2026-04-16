@@ -1,5 +1,6 @@
-﻿{
-  "name": "gestion-boutique-dashboard",
+
+{
+  "name": gestion-boutique-dashboard,
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
